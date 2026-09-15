@@ -11,9 +11,9 @@
 - **Production DevOps & Infrastructure:** Docker Containerization, GitHub Actions Automated CI/CD Tracks, Encrypted PostgreSQL (Supabase).
 
 ## 📂 ENTERPRISE ARCHITECTURES (SYNCHRONIZED CORE)
-- **[NexusCore AI Operating System](https://github.com):** Multi-agent orchestration engine with secure context windows.
-- **[Next.js 15 AI Dashboard](https://github.com):** Production-grade dashboard wired to Supabase PostgreSQL layers.
-- **[Arbi-Nexus MCP Bridge](https://github.com):** Real-time API translation protocol for frontier LLM models.
+- **[NexusCore AI Operating System](https://github.com/AnjaliWeather):** Multi-agent orchestration engine with secure context windows.
+- **[Next.js 15 AI Dashboard](https://github.com/AnjaliWeather):** Production-grade dashboard wired to Supabase PostgreSQL layers.
+- **[Arbi-Nexus MCP Bridge](https://github.com/AnjaliWeather):** Real-time API translation protocol for frontier LLM models.
 
 ---
 *Fully committed to asynchronous execution, rigorous clean code, and pushing high-performance AI models directly into global staging servers.*
